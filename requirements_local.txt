@@ -1,0 +1,11 @@
+ipykernel
+torch
+torchvision
+cmasher
+seaborn
+tqdm
+matplotlib
+pandas
+numpy
+pytorch-lightning
+einops
