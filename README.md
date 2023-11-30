@@ -12,6 +12,10 @@ To run [CDAM.ipynb](CDAM.ipynb) locally we recommend to create a Python >= 3.9 v
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lenbrocki/CDAM/blob/main/CDAM.ipynb)
 
+## Model training
+
+We provide a [checkpoint](best-checkpoint-full-imgnet-augment.ckpt) for a classifier head trained on ImageNet. With [train_imagenet.py](train_imagenet.py) you can also train the model yourself, but have to download the ImageNet dataset first.
+
 ## Try Demo
 
 Our [live demo](https://cdam.informatism.com) is the fastest way to try out CDAM!
