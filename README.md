@@ -10,7 +10,7 @@ To run [CDAM.ipynb](CDAM.ipynb) locally we recommend to create a Python >= 3.9 v
 
 ## Run notebook on Colab
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lenbrocki/CDAM/blob/main/attention_map.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lenbrocki/CDAM/blob/main/CDAM.ipynb)
 
 ## Try Demo
 
