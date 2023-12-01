@@ -22,7 +22,7 @@ Our [live demo](https://cdam.informatism.com) is the fastest way to try out CDAM
 
 ## Introduction
 
-We introduce CDAM, a novel method for visualizing input feature relevance of ViT classifications. CDAM scales the attention by how relevant the corresponding tokens are for the model's decision. Beyond targeting classifier outputs, we create explanation for a similarity measure in the latent space of the ViT. This allows for explanations of *arbitary concepts*, defined by the user through a few sample images. 
+We introduce CDAM, a novel method for visualizing input feature relevance of ViT classifications. CDAM scales the attention by how relevant the corresponding tokens are for the model's decision. Beyond targeting classifier outputs, we create explanations for a similarity measure in the latent space of the ViT. This allows for explanations of *arbitary concepts*, defined by the user through a few sample images. 
 
 CDAMs are obtained by calculating the gradients of the class or similarity score with respect to the tokens entering the final transformer block. The CDAM score $S_{i,c}$ is defined by 
 
